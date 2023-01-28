@@ -1,0 +1,15 @@
+{
+  "name": "introjs-react-example",
+  "version": "1.0.0",
+  "description":
+    "intro.js-react example\n\nhttps://github.com/HiDeoo/intro.js-react",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/o2A4gwXE3",
+  "main": "index.js",
+  "dependencies": {
+    "intro.js": "2.9.3",
+    "intro.js-react": "0.2.0",
+    "react": "15.5.3",
+    "react-dom": "15.5.3"
+  }
+}
